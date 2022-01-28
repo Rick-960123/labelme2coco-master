@@ -1,0 +1,7 @@
+__ignore__
+soft
+black
+scratch
+metal
+edge
+oil
